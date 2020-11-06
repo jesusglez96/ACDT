@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b65682af-3729-41f2-a91e-bdbfdbb384e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server - Apuestas@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server - Apuestas@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Apuestas: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server - Apuestas@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Apuestas: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="db_datareader: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server - Apuestas@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Apuestas: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="db_datawriter: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server - Apuestas@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="Apuestas: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="db_owner: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TStpsRwiqIY2oLWbSrq6WDdPgW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/JDBC/Microsoft JDBC Driver 7.4 for SQL Server/sqljdbc_7.4/enu/mssql-jdbc-7.4.1.jre8.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApuestaYGana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApuestaYGana" />
+      <module name="furry-couscous" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApuestaYGana" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b65682af-3729-41f2-a91e-bdbfdbb384e7" name="Default Changelist" comment="" />
+      <created>1573465510434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573465510434</updated>
+      <workItem from="1574071779217" duration="144000" />
+      <workItem from="1574098732176" duration="6072000" />
+      <workItem from="1574274632280" duration="5768000" />
+      <workItem from="1575480275897" duration="4416000" />
+      <workItem from="1575906371558" duration="8778000" />
+      <workItem from="1575460867873" duration="1144000" />
+      <workItem from="1576653765355" duration="6566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="359" key="#Deployment" timestamp="1575320720801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="359" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1575320720801" />
+    <state x="1641" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576067268002">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1641" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576067268002" />
+    <state x="1086" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1575489843025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1575489843025" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575461204592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575461204592" />
+    <state x="1977" y="133" width="357" height="595" key="#xdebugger.evaluate" timestamp="1576071479749">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1977" y="133" width="357" height="595" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071479749" />
+    <state x="1829" y="118" key="FileChooserDialogImpl" timestamp="1576067502967">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1829" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576067502967" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575323338284" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575323338284" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1576071752589">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752589" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575323338284" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575323338284" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576071752605">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576071752605" />
+    <state width="225" height="457" key="HiddenNamespacesPopup" timestamp="1576067097010">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="225" height="457" key="HiddenNamespacesPopup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576067097010" />
+    <state x="1692" y="0" key="SettingsEditor" timestamp="1576067514278">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1692" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576067514278" />
+    <state x="761" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1575321118127" />
+    <state x="1907" y="76" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1576066743528">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1907" y="76" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1576066743528" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575460945789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575460945789" />
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575906375014" />
+    <state x="731" y="321" key="new project wizard" timestamp="1575321057998">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="731" y="321" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1575321057998" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/ApuestaYGana.java</url>
+          <line>493</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/ApuestaYGana.java</url>
+          <line>386</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/ApuestaYGana.java</url>
+          <line>311</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/Manejadora/ManejadoraUsuarios.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/Manejadora/ManejadoraUsuarios.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/Manejadora/ManejadoraUsuarios.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/furry-couscous/src/ApuestaYGana.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
